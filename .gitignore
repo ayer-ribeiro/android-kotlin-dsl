@@ -1,0 +1,53 @@
+#application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Project files
+.metadata/
+
+# generated files
+bin/
+gen/
+build/
+.idea/
+.gradle/
+out/
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+*.hprof
+PalcoMP3-PalcoMP3.iml
+App/Letras/app/mapping.txt
+App/Letras/app/unused.txt
+App/Letras/fastlane/report.xml
+App/Letras/.tmp/
+App/Letras/caches/
+App/Letras/daemon/
+App/Letras/kotlin-profile/
+App/Letras/native/
+App/Letras/wrapper/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# ItelliJ IDEA
+workspace.xml
+
+# Macosx
+.DS_Store
+
+#crashlitycs file
+com_crashlytics_export_strings.xml
+crashlytics-build.properties
+crashlytics.properties
+
+#infer
+infer-out/
