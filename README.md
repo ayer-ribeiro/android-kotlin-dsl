@@ -4,6 +4,7 @@ A arquitetura foi desenvolvida usando como base o código de Hello World gerado 
 
 É importante considerar as desvantagens da estrutura proposta:
 - Impacto negativo na curva de aprendizado no início da carreira de desenvolvedoras e desenvolvedores
+- Lint de check de versão sem funcionamento
 - [Tempo de compilação pode ser maior com o uso KTS do que com o Groovy]([url](https://developer.android.com/studio/build/migrate-to-kts#known_issues)) (Acessado em 19/09/2022)
 
 ![image](https://user-images.githubusercontent.com/24896635/190944044-b116f352-b40e-4323-a0fb-c0c108322a8d.png)
